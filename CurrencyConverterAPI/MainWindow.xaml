@@ -33,7 +33,8 @@
 
 
         <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" Height="50" Width="1000" VerticalAlignment="Center">
-            <Label Height="50" Width="1000" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="Currency Converter" FontSize="25" Foreground="#080808" FontWeight="Bold"></Label>
+            <Ellipse x:Name="StatusEllipse" Margin="35 0 0 0" Height="20" Width="20"  Stroke="Black" RenderTransformOrigin="5.068,0.619"></Ellipse>
+            <Label Height="50" Width="900" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="Currency Converter" FontSize="25" Foreground="#080808" FontWeight="Bold"></Label>
         </StackPanel>
         <StackPanel Grid.Row="1" Orientation="Vertical" HorizontalAlignment="Center" Height="80" Width="1000">
             <Label Height="40" Width="1000" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="Converted Currency" FontSize="20"></Label>
