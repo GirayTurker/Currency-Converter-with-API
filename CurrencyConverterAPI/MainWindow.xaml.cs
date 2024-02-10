@@ -138,7 +138,7 @@ namespace CurrencyConverterAPI
         //Get Value from http with App ID (API Call)
         private async void GetValue()
         {
-            val = await GetData<Root>("https://openexchangerates.org/api/latest.json?app_id=6f77bf33ba7f49b598cb4aafc2dc4ec9");
+            val = await GetData<Root>("https://openexchangerates.org/api/latest.json?app_id=YOUR_KEY_IS_HERE");
             BindCurrencyFromHTTP();
         }
     }
