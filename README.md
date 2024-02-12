@@ -45,6 +45,11 @@ Note: !!DO NOT LEAVE ANY EMPTY SPACE!!
 
 9 - From the created folder, clcik <b>setup.exe</b> and install the application to your computer.
 
-10 - The application will appear in Windows --> Apps --> Installed Apps as folder name that created on step-3.
+10 - The application will appear in Windows --> Apps --> Installed Apps as folder name that created on step-3 along with it can be found through search bar on windows taskbar.
+
+![WPF3](https://github.com/GirayTurker/Currency-Converter-with-API/assets/89690556/7194caf9-f09d-4509-ae59-ca3f66f6f31a)
+
+![WPF4](https://github.com/GirayTurker/Currency-Converter-with-API/assets/89690556/a56affe1-b4d8-499a-91ad-8720eb4684cf)
+
 
 NOTE: If API KEY is wrong or not implemented, ERROR code will appeaer after application run. Whole process should repeat if that is the case!
