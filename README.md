@@ -45,4 +45,6 @@ Note: !!DO NOT LEAVE ANY EMPTY SPACE!!
 
 9 - From the created folder, clcik <b>setup.exe</b> and install the application to your computer.
 
+10 - The application will appear in Windows --> Apps --> Installed Apps as folder name that created on step-3.
+
 NOTE: If API KEY is wrong or not implemented, ERROR code will appeaer after application run. Whole process should repeat if that is the case!
